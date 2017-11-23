@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "return",
+  "scripts": {
+    "test": "return"
+  },
+  "repository": {
+    "type": "git",
+    "url": "return"
+  },
+  "keywords": [
+    "return"
+  ],
+  "author": "return",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "typed-graphql": "^1.0.2"
+  }
+}
